@@ -7,8 +7,6 @@ string hundred(int num);
 string one(int num);
 string teen(int num);
 
-
-
 int main() {
 	cout << "***The name of the number as a string***" << '\n';
 	int num;
